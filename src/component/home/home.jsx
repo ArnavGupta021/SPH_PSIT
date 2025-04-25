@@ -9,6 +9,7 @@ export default function HomeComponent() {
         <div>
             
             <h1>Home</h1>
+            <h1>Root2Rise</h1>
             <p>Welcome to the home page!</p>
         </div>
         <Footer />
