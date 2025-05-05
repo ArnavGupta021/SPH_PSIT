@@ -1,0 +1,88 @@
+.innovationsupport {
+  margin-left: 15px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #e9e6e6; /* Light background for contrast */
+  border-radius: 10px; /* Rounded corners for a modern look */
+  box-shadow: 0 4px 8px rgba(0, 0, 4, 0.1); /* Subtle shadow for depth */
+  display: flex;
+  justify-content: center; /* Horizontally center the form */
+  flex-direction: column;
+  align-items: center; /* Center content */
+}
+
+.innovationsupport h2 {
+  font-size: 2rem; /* Larger font size for heading */
+  color: #3f51b5; /* Match the color scheme from your header */
+  margin-bottom: 1rem;
+  text-align: center; /* Center heading */
+}
+
+.innovationsupport p {
+  font-size: 1rem;
+  color: #333; /* Darker color for text readability */
+  text-align: center; /* Center paragraph */
+}
+
+.startup-form {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #bdbdd7;
+  width: 400px;
+  background-color: #f9f9f9;
+  align-content: center;
+  border-radius: 10px;
+}
+
+.startup-form:hover{
+  box-shadow: 0 0 5px 5px rgba(102, 125, 225, 0.5);
+}
+
+.form-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the label and input */
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: center; /* Center the label text */
+  color: #3f51b5; /* Matching color scheme */
+  font-size: 1.1rem; /* Slightly larger font size */
+  padding: 5px 10px;
+  background-color: #f1f1f1; /* Light background for labels */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.form-group label:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow on hover */
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.submit-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  display: block;
+  width: 100%; /* Full width for button */
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}

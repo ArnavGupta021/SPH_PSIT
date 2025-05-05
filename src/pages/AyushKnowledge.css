@@ -1,0 +1,20 @@
+/* Style for the Analytics page */
+.ayushKnowledge {
+    margin-left: 15px;
+    padding: 20px;
+    background-color: #e9e6e6; /* Light background for contrast */
+    border-radius: 10px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 4, 0.1); /* Subtle shadow for depth */
+  }
+  
+  .ayushKnowledge h2 {
+    font-size: 2rem; /* Larger font size for heading */
+    color: #3f51b5; /* Match the color scheme from your header */
+    margin-bottom: 1rem;
+  }
+  
+  .ayushKnowledge p {
+    font-size: 1rem;
+    color: #333; /* Darker color for text readability */
+  }
+  
