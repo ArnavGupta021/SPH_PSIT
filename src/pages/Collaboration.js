@@ -6,7 +6,7 @@ const Collaboration = () => {
   return (
     <div className="Collaboration" style={{marginLeft: '15px'}}>
       <h2>Collaboration</h2>
-      <p>Welcome to the Gujarat Innovation Platform Collaboration.</p>
+      <p>Welcome to the Unified AYUSH Startup Registration System(UASRS).</p>
     </div>
   );
 };

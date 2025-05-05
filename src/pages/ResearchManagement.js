@@ -6,7 +6,7 @@ const ResearchManagement = () => {
   return (
     <div className="researchmanagement" style={{marginLeft: '15px'}}>
       <h2>Research Management</h2>
-      <p>Welcome to the Gujarat Innovation Platform Research Management.</p>
+      <p>Welcome to the Unified AYUSH Startup Registration System(UASRS).</p>
     </div>
   );
 };

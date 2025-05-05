@@ -5,7 +5,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>© 2024 Gujarat Innovation Platform. All rights reserved.</p>
+      <p>© 2025 Unified AYUSH Startup Registration System(UASRS). All rights reserved.</p>
     </footer>
   );
 };

@@ -55,7 +55,7 @@ const InnovationSupport = () => {
   return (
     <div className="innovationsupport" style={{ marginLeft: '15px' }}>
       <h2>Innovation Support</h2>
-      <p>Welcome to the Gujarat Innovation Platform Innovation Support.</p>
+      <p>Welcome to the Unified AYUSH Startup Registration System(UASRS) Support .</p>
 
       {/* Form for submitting startup data */}
       <form className="startup-form" onSubmit={handleSubmit}>
